@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Box.css';
+import './Game.css';
 
 function Box() {
     const [turn, setTurn] = useState('x');
